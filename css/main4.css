@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.nabar{
+    background-color: black;
+}
+.nabar-menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.nabar-item{
+    display: inline-block;
+    padding: 24px 10px;
+}
+.nabar-item{
+    text-decoration: none;
+    color: gray;
+}
+.nabar-item:hover{
+    background-color:  aqua;
+    border-bottom: 4px solid blue;
+}

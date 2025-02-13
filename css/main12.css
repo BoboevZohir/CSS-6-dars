@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+.text-block{
+    width: 1200px;
+    height: 500px;
+    margin: 30px auto;
+}
+.text-block-item-bir{
+    width: 100%;
+    height: 300px;
+    display: inline-block;
+    background-color: white;
+}
+.text-block-item-bir{
+    width: 20%;
+    height: 400px;
+    background-color: white;
+}

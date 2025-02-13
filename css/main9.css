@@ -1,0 +1,116 @@
+.card{
+    width: 550px;
+    height: 700px;
+    border: 1px solid black;
+    margin: 20px auto;
+}
+.card-1{
+    width: 100%;
+    height: 50%;
+    background-color: lightgray;
+    position: relative;
+    background-image: url(../rasmlar/photo1.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+}
+.card-2{
+    width: 100%;
+    height: 50%;
+    background-color: white;
+    position: relative;
+}
+.text{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    font-size: 25px;
+    padding-top: 5px;
+    box-sizing: border-box;
+    position: absolute;
+    right: 1px;
+    top: 40px;
+}
+.planshet{
+    color: gray;
+    position: absolute;
+    top: 70px;
+    left: 8px;
+    font-size: 30px;
+}
+.yangi{
+    width: 100px;
+    height: 30px;
+    border: 1px solid lightgreen;
+    background-color: lightgreen;
+    position: absolute;
+    top: 70px;
+    left: 170px;
+    font-size: 30px;
+}
+.smartfon{
+    position: absolute;
+    top: 100px;
+    left: 8px;
+    font-size: 30px;
+}
+.gb{
+    position: absolute;
+    top: 130px;
+    left: 8px;
+    font-size: 30px;
+}
+.fales{
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    text-decoration: line-through;
+    font-size: 30px;
+}
+.dick{
+    position: absolute;
+    top: 230px;
+    left: 150px;
+    font-size: 30px;
+}
+.black{
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    border: 1px solid greenyellow;
+    color: white;
+    background-color: greenyellow;
+    top: 270px;
+    left: 150px;
+    font-size: 30px;
+}
+.pus{
+    width: 100px;
+    height: 50px;
+    border: 1px solid red;
+    background-color: red;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 260px;
+    left: 8px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 30px;
+}
+.ekonom{
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    top: 270px;
+    left: 260px;
+    font-size: 30px;
+}
+.img{
+    margin-top: 190px;
+    margin-left: 8px;
+}
